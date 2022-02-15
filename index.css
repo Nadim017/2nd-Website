@@ -1,0 +1,65 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.header-section {
+  background-image: url("./personal-website/header-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 100px;
+}
+.half-width {
+  float: left;
+  width: 35%;
+  text-align: center;
+  padding: 5%;
+}
+.header-img {
+  width: 60%;
+  height: 60%;
+  margin-left: 20px;
+}
+.name-style {
+  color: deeppink;
+}
+.visit {
+  background-color: deeppink;
+  padding: 5px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  line-height: auto 0;
+}
+
+.section-2 {
+  background-image: url("./personal-website/biography-bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+section {
+  height: 500px;
+}
+.header-imgs {
+  width: 50%;
+}
+.work {
+  float: left;
+  width: 33%;
+}
+.work-img {
+  width: 80%;
+}
+.work-section {
+  margin-top: 100px;
+  background-image: url("./personal-website/latest-work-bg.png");
+  margin-left: 5px;
+  text-align: center;
+}
+.footer {
+  background-image: url("./personal-website/footer-bg.png");
+}
+.left {
+  line-height: auto;
+}
